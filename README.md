@@ -8,5 +8,7 @@ Aimed to practice the workflow and skill for machine learning that I have learnt
 Objective for the competition:
 Train the model with incompleted DNA sequences data & predict the target bacteria in test set
 
-Current Progress: 16/02/2022 Finished processing data & create a template for further machine model training
-Next milestone: Create another notebook from the template and work for different machine learning model and submitt to check with the performance
+Current Progress: 17/02/2022 Finished first XGBoost and submitted the result
+Next milestone: Adjust XGBoost model for high accuracy & try with other machine learning model
+
+17/02/2022 XGBoost(1st): Accuracy: 0.90366, Rank: 701
