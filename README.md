@@ -11,4 +11,5 @@ Train the model with incompleted DNA sequences data & predict the target bacteri
 Current Progress: 17/02/2022 Finished first XGBoost and submitted the result
 Next milestone: Adjust XGBoost model for high accuracy & try with other machine learning model
 
+#### Result
 17/02/2022 XGBoost(1st): Accuracy: 0.90366, Rank: 701
