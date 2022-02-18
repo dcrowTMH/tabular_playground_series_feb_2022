@@ -22,3 +22,4 @@ Next milestone: Add back the duplicate sample/ bootstrapping & other hyper-param
 19/02/2022 Fourth trial (XGBoost with 100 lambda & alpha): Score = 0.82967, Rank = NA
 
 19/02/2022 Fifth trial (XGBoost with no gamma + Second trial regularization): Score = 0.91781, Rank = 724
+https://www.kaggle.com/dcrowd/xgboost-model-first-comp-keep-improving
