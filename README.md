@@ -2,11 +2,11 @@
 ## Kaggle Competition - Tabular Playground Series Feb 2022
 Data: https://www.kaggle.com/c/tabular-playground-series-feb-2022/data
 
-Purpose for repository:
+### Purpose for repository:
 
 Aimed to practice the workflow and skill for machine learning that I have learnt.
 
-Objective for the competition:
+### Objective for the competition:
 
 Train the model with incompleted DNA sequences data & predict the target bacteria in test set
 
