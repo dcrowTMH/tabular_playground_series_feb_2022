@@ -10,9 +10,9 @@ Aimed to practice the workflow and skill for machine learning that I have learnt
 
 Train the model with incompleted DNA sequences data & predict the target bacteria in test set
 
-Current Progress: 19/02/2022 Submitted k-fold & depth adjustment work better, PCA is not working at this moment
+Current Progress: 26/02/2022 Just submitted the application of UMAP & GridSearchCV but the accuracy is not good
 
-Next milestone: obtain experience from others notebook & try with other technique and model
+Next milestone: obtain experience from others notebook & try with other model with more hyper-parameter searching
 
 #### Result
 
@@ -31,5 +31,9 @@ Next milestone: obtain experience from others notebook & try with other techniqu
 22/02/2022 Seventh trial (XGBoost with 5-fold & PCA): Score = 0.86250, Rank = NA
 
 22/02/2022 Eighth trial (XGBoost with 5-fold & features amount PCA): Score : 0.87796, Rank = NA
+
+26/02/2022 Ninth trial (XGBoost with GridSearchCV): Score = 0.93042, Rank = NA
+
+26/02/2022 Tenth trial (XGBoost with UMAP): Score = 0.78098, Rank = NA
 
 https://www.kaggle.com/dcrowd/xgboost-model-first-comp-keep-improving
