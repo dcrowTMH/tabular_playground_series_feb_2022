@@ -10,9 +10,11 @@ Aimed to practice the workflow and skill for machine learning that I have learnt
 
 Train the model with incompleted DNA sequences data & predict the target bacteria in test set
 
-Current Progress: 26/02/2022 Just submitted the application of UMAP & GridSearchCV but the accuracy is not good
+Current Progress: Competition End, get ready for next competition & learn from high score notebook
 
-Next milestone: obtain experience from others notebook & try with other model with more hyper-parameter searching
+Just finished KNN part with quantile to deal with bias
+
+Next milestone: Learn extra trees & GCD for other machine learning technique
 
 #### Result
 
